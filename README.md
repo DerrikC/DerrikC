@@ -1,7 +1,7 @@
 ### Greetings, I'm Derrik 👽
 
-I’m a digital designer & front-end developer.
+I’m a designer.
 
-- 🌱 I’m currently learning React.js, Next.js
+- 🌱 Vibing...
 
 
